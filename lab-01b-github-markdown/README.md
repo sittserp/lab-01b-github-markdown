@@ -4,10 +4,10 @@
 * Navigate to where you want the repo to be in the terminal
 * Command: git clone (paste the link copied from GitHub here)
 ## Now create more directories and files in your repo
-`
+```
 1) mkdir ~/alchemy/lab-01b-github-markdown/assets
 1) cd ~/alchemy/lab-01b-github-markdown/assets
 1) touch ./{style.css,app.js}
 1) cd ../
 1) touch ./{README.md,greeting.md}
-`
+```
