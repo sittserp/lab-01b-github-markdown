@@ -19,5 +19,5 @@
 |---|---|---|
 |Chocolate|Mint|10|
 |Chocolate|Peanutbutter|9|
-|Chocolate|Liquorice|8|
-|Chocolate|Chocolate|9|
+|Chocolate|Liquorice|9|
+|Chocolate|Chocolate|8|
